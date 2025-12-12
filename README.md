@@ -1,2 +1,1 @@
-# heps
-Hackerspace Enhancement Proposals
+# Hackerspace Enhancement Proposals
