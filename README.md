@@ -9,3 +9,4 @@ If you are planning to make a major change in our physical space or in how we op
 \# | Title | Author(s) | Status
 --- | --- | --- | ---
 [HEP 1](https://github.com/konyahackerspace/heps/blob/main/hep-0001.md) | [HEP Purpose and Guidelines](https://github.com/konyahackerspace/heps/blob/main/hep-0001.md) | [@safaorhan](https://github.com/safaorhan) | `Active`
+[HEP 3](https://github.com/konyahackerspace/heps/blob/main/hep-0003.md) | [Membership Structure](https://github.com/konyahackerspace/heps/blob/main/hep-0003.md) | [@safaorhan](https://github.com/safaorhan) | `Active`
