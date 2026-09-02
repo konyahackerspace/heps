@@ -12,3 +12,4 @@ If you are planning to make a major change in our physical space or in how we op
 [HEP 3](https://github.com/konyahackerspace/heps/blob/main/hep-0003.md) | [Membership Structure](https://github.com/konyahackerspace/heps/blob/main/hep-0003.md) | [@safaorhan](https://github.com/safaorhan) | `Active`
 [HEP 4](https://github.com/konyahackerspace/heps/blob/main/hep-0004.md) | [Introduce Maker Corner](https://github.com/konyahackerspace/heps/blob/main/hep-0004.md) | [@safaorhan](https://github.com/safaorhan) | `Active`
 [HEP 6](https://github.com/konyahackerspace/heps/blob/main/hep-0006.md) | [Install Ceiling Lights](https://github.com/konyahackerspace/heps/blob/main/hep-0006.md) | [@safaorhan](https://github.com/safaorhan) | `Active`
+[HEP 13](https://github.com/konyahackerspace/heps/blob/main/hep-0013.md) | [Wi-Fi Access and Records](https://github.com/konyahackerspace/heps/blob/main/hep-0013.md) | [@mhalikosen](https://github.com/mhalikosen) | `Active`
